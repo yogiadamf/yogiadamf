@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogiadamf
-- 👀 I’m interested in Software development, web development and mobile app development
-- 🌱 I’m currently learning React JS, Next JS, Laravel Framework
+- 👀 I’m interested in web development and mobile app development
+- 🌱 I’m currently learning React JS, Next JS, Laravel and React Native
 - 💞️ I’m looking to collaborate on my project
 
 <!---
